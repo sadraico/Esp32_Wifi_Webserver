@@ -2,6 +2,8 @@
 
 Este projeto cria uma rede Wi‑Fi própria no ESP32 e hospeda uma página web simples para controlar uma saída digital (nesse exemplo é a luz azul do ESP32 Devkit v1)
 
+![](https://github.com/sadraico/Esp32_Wifi_Webserver/blob/main/images/Screenshot_20260720-224620.png)
+
 ## Visão geral
 
 Ao ligar o ESP32, ele entra em modo **Access Point (AP)** e cria uma rede chamada `ESP32_Rede`.  
